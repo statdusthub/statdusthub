@@ -1,4 +1,4 @@
-## Hi, I'm Yobin 👋
+# Hi, I'm Maren 👋
 
 By building upon thoughtful deliberation and steady effort, I aim to bring positive change to the world. <br>
 깊이 있게 고민하고 성실하게 쌓아 올린 결과로, 세상에 작은 변화를 만들고자 합니다.
