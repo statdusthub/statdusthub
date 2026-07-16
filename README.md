@@ -11,31 +11,21 @@ B.S. in Statistics (Double Major in Artificial Intelligence)
 
 ## Experience
 
-**🔬 PRISM Lab**
+| Organization | Role | Period |
+|--------------|------|--------|
+| **🔬 PRISM Lab** | Undergraduate Researcher | Jul. 2025 – Mar. 2026 |
+| **🔬 Winter UROP Program** | Undergraduate Researcher | Dec. 2025 – Jan. 2026 |
+| **🏢 KoData Solution** | Data Analyst Intern | Feb. 2024 – Aug. 2024 |
+| **👨‍🏫 SeSAC (Seoul Software Academy)** | Assistant Instructor (Tableau) | Jul. 2025 – Aug. 2025<br>Feb. 2026 – Mar. 2026 |
 
-Undergraduate Researcher | *Supervised by Prof. Wonjun Ko*
+## Award
 
-Jul. 2025 – Mar. 2026
+| Award | Date |
+|-------|------|
+| **Grand Prize**<br>2023 School Safety Public Data Analysis Competition | Dec. 2023 |
+| **Excellence Award**<br>NICE Group Data Analytics Program | Feb. 2026 |
 
-**🔬 Winter UROP Program**
-
-Undergraduate Researcher | *Supervised by Prof. Taehwa Choi*  
-
-Dec. 2025 – Jan. 2026
-
-**🏢 KoData Solution**
-
-Data Analyst Intern | Data Platform Headquarters Team  
-
-Feb. 2024 – Aug. 2024
-
-**👨‍🏫 SeSAC (Seoul Software Academy)**
-
-Assistant Instructor (Tableau) | AI-driven Data Analytics Program  
-
-Jul. 2025 – Aug. 2025 · Feb. 2026 – Mar. 2026
-
-## 🛠️ Tech Stacks
+## Tech Stacks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -52,7 +42,7 @@ Jul. 2025 – Aug. 2025 · Feb. 2026 – Mar. 2026
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-🔗 Links
+Links
 
 <p>
   <a href="https://imstatdust.tistory.com/">
