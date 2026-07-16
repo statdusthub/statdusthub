@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d8ec7,100:2a2c98&height=240&text=Yobin's%20Github&animation=twinkling&fontColor=ffffff&fontSize=60" />
-</div>
-
 <h2>Hi, I'm Yobin 👋</h2>
 
 <p>
