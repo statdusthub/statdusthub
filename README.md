@@ -5,25 +5,25 @@ By building upon thoughtful deliberation and steady effort, I aim to bring posit
 
 ## Education
 
-**Sungshin Women's University**  
-
-B.S. in Statistics (Double Major in Artificial Intelligence)
+| 🏫 Institution | 🎖️ Degree | 📅 Duration |
+|---------------|-----------|------------|
+| Sungshin Women's University | B.S. in Statistics (Double Major in Artificial Intelligence) | Mar. 2022 – Present |
 
 ## Experience
 
-| Organization | Role | Period |
+| 🏫 Organization | 💼 Position |  📅 Duration |
 |--------------|------|--------|
-| **🔬 PRISM Lab** | Undergraduate Researcher | Jul. 2025 – Mar. 2026 |
-| **🔬 Winter UROP Program** | Undergraduate Researcher | Dec. 2025 – Jan. 2026 |
-| **🏢 KoData Solution** | Data Analyst Intern | Feb. 2024 – Aug. 2024 |
-| **👨‍🏫 SeSAC (Seoul Software Academy)** | Assistant Instructor (Tableau) | Jul. 2025 – Aug. 2025<br>Feb. 2026 – Mar. 2026 |
+| **PRISM Lab** | Undergraduate Researcher | Jul. 2025 – Mar. 2026 |
+| **Winter UROP Program** | Undergraduate Researcher | Dec. 2025 – Jan. 2026 |
+| **KoData Solution** | Data Analyst Intern | Feb. 2024 – Aug. 2024 |
+| **SeSAC (Seoul Software Academy)** | Assistant Instructor (Tableau) | Jul. 2025 – Aug. 2025<br>Feb. 2026 – Mar. 2026 |
 
 ## Award
 
-| Award | Date |
-|-------|------|
-| **Grand Prize**<br>2023 School Safety Public Data Analysis Competition | Dec. 2023 |
-| **Excellence Award**<br>NICE Group Data Analytics Program | Feb. 2026 |
+| 🏆 Award | 📅 Date |
+|----------|---------|
+| Grand Prize<br><sub>2023 School Safety Public Data Analysis Competition</sub> | Dec. 2023 |
+| Excellence Award<br><sub>NICE Group Data Analytics Program</sub> | Feb. 2026 |
 
 ## Tech Stacks
 
