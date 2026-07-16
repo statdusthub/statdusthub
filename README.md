@@ -5,7 +5,6 @@
   깊이 있게 고민하고 성실하게 쌓아 올린 결과로, 세상에 작은 변화를 만들고자 합니다.
 </p>
 
-<br>
 
 <h2>🛠️ Tech Stacks</h2>
 
@@ -18,7 +17,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </p>
 
-<br>
 
 <h2>🔗 Links</h2>
 
